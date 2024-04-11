@@ -68,7 +68,7 @@ Le bot effectue les actions suivantes :
 
 - Le bot effectue l'analyse de sentiment et la détection de langue uniquement sur les messages provenant de canaux de test spécifiques. Les messages provenant d'autres canaux sont ignorés.
 
-### Contributeurs
+### Contributeurs groupe 2
 
 - [Thelma LUM]
 - [Maxime Jores SIGNE FOKOUI]
