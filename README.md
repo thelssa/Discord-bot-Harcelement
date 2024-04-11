@@ -29,7 +29,7 @@ Avant d'exécuter le bot, assurez-vous de disposer des éléments suivants :
 
 3. Configurez les clés API :
 
-   Créez un fichier `api-keys.yaml` dans le répertoire `private` avec la structure suivante :
+   Créez un repetoire "private" puis à ajoutee un fichier `api-keys.yaml`  avec la structure suivante :
    ```yaml
    discord_bot_token: VOTRE_JETON_DE_BOT_DISCORD
    text_analytics_key: VOTRE_CLÉ_ANALYTIQUE_DE_TEXTE_AZURE
