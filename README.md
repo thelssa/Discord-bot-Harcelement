@@ -67,9 +67,3 @@ Le bot effectue les actions suivantes :
 - Le bot ignore les messages des utilisateurs avec des noms spécifiques (par exemple, "Bully Macguire#2062", "Arsene Deghela#3390", "MessageBot#9405") pour éviter de traiter des messages inutiles.
 
 - Le bot effectue l'analyse de sentiment et la détection de langue uniquement sur les messages provenant de canaux de test spécifiques. Les messages provenant d'autres canaux sont ignorés.
-
-### Contributeurs groupe 2
-
-- [Thelma LUM]
-- [Maxime Jores SIGNE FOKOUI]
-- [ Franck malève Takuete ]
